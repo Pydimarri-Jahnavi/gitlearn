@@ -22,6 +22,19 @@ _**italic and bold**_
 2.ece
 
 3.civil
-  1.civil(a)
-  2.civil(b)
+  1. civil(a)
+  2. civil(b)
   
+4.mech
+  1. mech(a)
+  2. mech(b)
+  
+## unordered list
+- year1
+- year2
+  * year2a
+  * year2b
+
+- year3
+  * year3a
+  * year3b
