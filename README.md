@@ -22,12 +22,12 @@ _**italic and bold**_
 2. ece
 
 3. civil
-  1. civil(a)
-  2. civil(b)
+   1. civil(a)
+   2. civil(b)
   
 4. mech
-  1. mech(a)
-  2. mech(b)
+   1. mech(a)
+   2. mech(b)
   
 ## unordered list
 - year1
